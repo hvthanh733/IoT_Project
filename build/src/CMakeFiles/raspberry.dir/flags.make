@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/thanh/IoT_Project/include
+CXX_INCLUDES = -I/home/thanh/IoT_Project/include -I/usr/include/hiredis
 
 CXX_FLAGS = -std=gnu++17
 

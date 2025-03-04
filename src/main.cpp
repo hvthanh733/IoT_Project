@@ -1,10 +1,16 @@
-// #include "BusinessHandler.h"
+#include <wiringPi.h>
 #include <iostream>
+#include <thread>
+#include <unistd.h>
+#include "fire_sensor.h"
+
 
 int main() {
-    // BusinessHandler handler;
-    // handler.run();
-    std::cout<<"Hello workd"<<std::endl;
+    if (wiringPiSetupGpio() == -1) {
+        std::cerr << "⚠️ Lỗi khởi tạo GPIO!" << std::endl;
+        return 1;
+    }
 
+    detectFire();
     return 0;
 }
