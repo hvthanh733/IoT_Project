@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/backend.dir/server.cpp.o CMakeFiles/backend.dir/mqtt_handler.cpp.o CMakeFiles/backend.dir/database.cpp.o -o backend 

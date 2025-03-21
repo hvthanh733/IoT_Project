@@ -1,8 +1,0 @@
-/home/thanh/IoT_Project/build/CMakeFiles/edit_cache.dir
-/home/thanh/IoT_Project/build/CMakeFiles/rebuild_cache.dir
-/home/thanh/IoT_Project/build/src/CMakeFiles/raspberry.dir
-/home/thanh/IoT_Project/build/src/CMakeFiles/edit_cache.dir
-/home/thanh/IoT_Project/build/src/CMakeFiles/rebuild_cache.dir
-/home/thanh/IoT_Project/build/backend/CMakeFiles/backend.dir
-/home/thanh/IoT_Project/build/backend/CMakeFiles/edit_cache.dir
-/home/thanh/IoT_Project/build/backend/CMakeFiles/rebuild_cache.dir

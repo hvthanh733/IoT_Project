@@ -1,0 +1,2 @@
+cd ~/IoT_Project/database
+sqlite3 data.db < schema.sql

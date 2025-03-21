@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/raspberry.dir/main.cpp.o CMakeFiles/raspberry.dir/hu_temp_sensor.cpp.o CMakeFiles/raspberry.dir/fire_sensor.cpp.o CMakeFiles/raspberry.dir/mqtt_publisher.cpp.o CMakeFiles/raspberry.dir/gpio_control.cpp.o CMakeFiles/raspberry.dir/Saver.cpp.o CMakeFiles/raspberry.dir/BusinessHandler.cpp.o -o raspberry  -lmosquitto -lhiredis -lwiringPi 
